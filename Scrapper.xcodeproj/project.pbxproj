@@ -18,7 +18,7 @@
 		5934212621383D320077523E /* ScrapperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5934212521383D320077523E /* ScrapperUITests.swift */; };
 		59342135213841580077523E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59342134213841580077523E /* LoginViewController.swift */; };
 		59342137213843280077523E /* LoginView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 59342136213843280077523E /* LoginView.xib */; };
-		5934213B21387A8E0077523E /* ScrapView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5934213A21387A8E0077523E /* ScrapView.xib */; };
+		5934213B21387A8E0077523E /* ScrapView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5934213A21387A8E0077523E /* ScrapView.xib */;
 		854ED5E53AA5E396CFFB7898 /* Pods_Scrapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B88A423B25A6C5E40D9EE3C0 /* Pods_Scrapper.framework */; };
 		B9735EFCBAF7B259EDA93F97 /* Pods_ScrapperTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A524FC2D8980DF973461C87 /* Pods_ScrapperTests.framework */; };
 /* End PBXBuildFile section */
@@ -60,7 +60,8 @@
 		5934212721383D320077523E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59342134213841580077523E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		59342136213843280077523E /* LoginView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoginView.xib; sourceTree = "<group>"; };
-		5934213A21387A8E0077523E /* ScrapView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ScrapView.xib; sourceTree = "<group>"; };
+<<<<<<< HEAD
+		5934213A21387A8E0077523E /* ScrapView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ScrapView.xib; sourceTree = "<group>"; }
 		8ACF1EBEE80C03DACE8567A7 /* Pods-ScrapperUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScrapperUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ScrapperUITests/Pods-ScrapperUITests.release.xcconfig"; sourceTree = "<group>"; };
 		9DCB7F3ED27FBDFB559B03F9 /* Pods-ScrapperTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScrapperTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ScrapperTests/Pods-ScrapperTests.debug.xcconfig"; sourceTree = "<group>"; };
 		B53947632EF45061B3EDC0BA /* Pods-ScrapperTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScrapperTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ScrapperTests/Pods-ScrapperTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -304,7 +305,10 @@
 				5934210D21383D320077523E /* Assets.xcassets in Resources */,
 				59342137213843280077523E /* LoginView.xib in Resources */,
 				5934210821383D2F0077523E /* Main.storyboard in Resources */,
+<<<<<<< HEAD
 				5934213B21387A8E0077523E /* ScrapView.xib in Resources */,
+=======
+>>>>>>> 92e59ae355d281de7b92bb812566732f6536ff12
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
